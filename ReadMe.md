@@ -1,5 +1,3 @@
-Sure! Here's an example of a README file for your Heart Stroke Analysis project:
-
 # Heart Stroke Analysis
 
 This project aims to analyze the risk of stroke occurrence in patients using machine learning classification models. Stroke is a leading cause of death and disability worldwide, and early detection and prevention are crucial in improving patient outcomes.
